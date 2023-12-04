@@ -1,0 +1,11 @@
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.deps.json
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.dll
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.pdb
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.AssemblyInfoInputs.cache
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.AssemblyInfo.cs
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.dll
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\refint\BlazorLogin.Shared.dll
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.pdb
+C:\Users\ca_aelizondo.CONARROZ.000\Desktop\Programming\LEARNING\BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\ref\BlazorLogin.Shared.dll
